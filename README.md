@@ -1,1 +1,1 @@
-# my common proj folder
+# my common project folder
